@@ -1,0 +1,66 @@
+_repo: Heldensagen-en-Legenden-van-de-Servi-rs_18363
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Mijatovic, Cedomilj
+    aliases:
+    - Мијатовић, Чедомиљ
+    - Mijatovich, Chedomil
+    - Miyatovich, Chedomille
+    - Miyatovich, Chedo
+    - Mijatovic, Ceda
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '7967'
+    url: http://www.gutenberg.org/2009/agents/7967
+  illustrators:
+  - agent_name: Sewell, William
+    gutenberg_agent_id: '7969'
+    url: http://www.gutenberg.org/2009/agents/7969
+  - agent_name: James, Gilbert
+    gutenberg_agent_id: '7970'
+    url: http://www.gutenberg.org/2009/agents/7970
+  translator:
+    agent_name: Wesselink-van Rossum, Joanna Petronella
+    birthdate: 1860
+    deathdate: 1930
+    gutenberg_agent_id: '7968'
+    url: http://www.gutenberg.org/2009/agents/7968
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Petrovitch, Woislav M.
+    aliases:
+    - Petrović, Vojislav Maksim
+    - Petrovic, Vojislav Maksim
+    birthdate: 1884
+    deathdate: 1934
+    gutenberg_agent_id: '7966'
+    url: http://www.gutenberg.org/2009/agents/7966
+  - agent_name: Karadžić, Vuk Stefanović
+    aliases:
+    - Karadzic, Vuk Stefanovic
+    - Караџић, Вук Стефановић
+    birthdate: 1787
+    deathdate: 1864
+    gutenberg_agent_id: '6293'
+    url: http://www.gutenberg.org/2009/agents/6293
+    wikipedia: http://en.wikipedia.org/wiki/Vuk_Stefanovi%C4%87_Karad%C5%BEi%C4%87
+description: ''
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18363'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Serbia'
+- !lcsh 'Legends -- Serbia'
+- !lcsh 'Folklore -- Serbia'
+- !lcc 'GR'
+title: Heldensagen en Legenden van de Serviërs
+url: http://www.gutenberg.org/ebooks/18363
